@@ -25,4 +25,6 @@ prev.addEventListener('click', function(event){
     translateY += 400
     comment.style.transform = `translateY(${translateY}px)`
     count++
+
 })
+
